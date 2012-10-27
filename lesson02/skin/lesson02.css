@@ -1,7 +1,8 @@
 #board {
 	position: relative;
-	height: 400px;
+	height: 400px; /* akan diset dinamis via JavaScript */
 }
+
 
 #air {
 	position: absolute;

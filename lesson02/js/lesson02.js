@@ -137,3 +137,5 @@ $('#airGaram').bind('click', function(){ bowlClicked('airGaram') });
 $('#mainanPlastik').bind('click', function(){ dropAndDecide('mainanPlastik') });
 $('#kayu').bind('click', function(){ dropAndDecide('kayu') });
 $('#kunci').bind('click', function(){ dropAndDecide('kunci') });
+
+setInterval(function(){ $('#board').height( $('#board').width() * 0.5 ); }, 400);
