@@ -17,7 +17,7 @@ var things = {
 	'mainanPlastik': {
 		left: '55%',
 		top: '10%',
-		density: 1050,
+		density: 1075,
 	},
 	'kayu': {
 		left: '70%',
