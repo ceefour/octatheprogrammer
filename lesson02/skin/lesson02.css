@@ -1,0 +1,36 @@
+#board {
+	position: relative;
+	height: 400px;
+}
+
+#air {
+	position: absolute;
+	left: 5%;
+	top: 10%;
+	width: 10%;
+}
+#airGaram {
+	position: absolute;
+	left: 20%;
+	top: 10%;
+	width: 10%;
+}
+
+#mainanPlastik {
+	position: absolute;
+	left: 55%;
+	top: 10%;
+	width: 10%;
+}
+#kayu {
+	position: absolute;
+	left: 70%;
+	top: 10%;
+	width: 10%;
+}
+#kunci {
+	position: absolute;
+	left: 85%;
+	top: 10%;
+	width: 10%;
+}
